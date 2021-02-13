@@ -10,6 +10,8 @@
 
 - [The Net Ninja's React Tutorial](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gZD-Tvwfod2gaISzfRiP9d)
 
+- [Bitfume's Ultimate React Tutorial](https://www.youtube.com/watch?v=I6tbhNUU96Y)
+
 # Learn Node js
 
 - [Dev eds intro to Node JS](https://www.youtube.com/watch?v=zQRrXTSkvfw)
@@ -18,7 +20,7 @@
 
 # Get started with the MERN stack
 
-### I also would suggest to learn more about SQL and NOSQL databases in depth before jumping on to MERN
+> I would also suggest to learn more about SQL and NOSQL databases in depth before jumping on to MERN
 
 - [MERN Tutorial by Traversy Media](https://www.youtube.com/watch?v=SBvmnHTQIPY&start=634s)
 
@@ -34,8 +36,10 @@
 
 - [Ben Awads TypeScript Tutorial](https://www.youtube.com/watch?v=Z5iWr6Srsj8&t=177s)
 
+# Learn GraphQL
+
 - [freeCodeCamp's GraphQL Tutorial](https://www.youtube.com/watch?v=ed8SzALpx1Q)
 
 # Go pro with this one
 
-- [Ben Awads 12 Hours FullStack Course](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=266s)
+- [Ben Awads 14 Hours FullStack Course](https://www.youtube.com/watch?v=I6ypD7qv3Z8&t=266s)
